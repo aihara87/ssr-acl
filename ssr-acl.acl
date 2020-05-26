@@ -682,6 +682,7 @@
 (^|\.)store\.xl\.api\.3g\.youku\.com$
 (^|\.)test\.ott\.youku\.com$
 (^|\.)val\.api\.youku\.com$
+(^|\.)(www|m)\.winlive88\.info$
 117.177.248.17/32
 117.177.248.41/32
 223.87.176.139/32
